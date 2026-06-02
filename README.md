@@ -30,12 +30,6 @@ Tools:      Docker / Linux / Git / MySQL
 
 ---
 
-## Snake Animation
-
-![Snake animation](https://raw.githubusercontent.com/ttq7/output/output/github-snake-dark.svg)
-
----
-
 ## Activity
 
 ```
