@@ -14,7 +14,7 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmT1tAyH/giphy.gif" width="30"> About Me
+### 馃 About Me
 
 ```yaml
 name: "TTQ"
@@ -29,7 +29,7 @@ motto: "Code is poetry, bugs are just plot twists."
 
 ---
 
-### <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> Tech Stack
+### 馃洜锔?Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -50,7 +50,7 @@ motto: "Code is poetry, bugs are just plot twists."
 
 ---
 
-### <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="28"> GitHub Stats
+### 馃搳 GitHub Stats
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=ttq7&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f523&icon_color=00f523&text_color=c9d1d9" width="48%" />
@@ -63,7 +63,7 @@ motto: "Code is poetry, bugs are just plot twists."
 
 ---
 
-### <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="28"> Trophies
+### 馃弳 Trophies
 
 <p>
   <img src="https://github-profile-trophy.vercel.app/?username=ttq7&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" />
@@ -71,7 +71,7 @@ motto: "Code is poetry, bugs are just plot twists."
 
 ---
 
-### <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="28"> Activity Graph
+### 馃搱 Activity Graph
 
 <p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ttq7&bg_color=0d1117&color=00f523&line=00f523&point=ffffff&area=true&area_color=00f523&hide_border=true" width="95%" />
@@ -79,7 +79,7 @@ motto: "Code is poetry, bugs are just plot twists."
 
 ---
 
-### <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="28"> Contribution Snake
+### 馃悕 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ttq7/ttq7/output/github-snake-dark.svg" />
