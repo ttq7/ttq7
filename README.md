@@ -1,7 +1,8 @@
 # Hi, I'm TTQ
 
 **Developer | Creator | Tech Explorer**
-
+ ![Snake
+  animation](https://raw.githubusercontent.com/ttq7/output/output/github-snake-dark.svg)
 ---
 
 ## About Me
